@@ -1,0 +1,27 @@
+body{
+    background-image: url('background.jpg');
+    background-size: cover; 
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    color: rgb(134, 34, 151);
+}
+h3{
+    color: rgb(50, 13, 69);
+    font-family: cursive;
+}
+.mainbody{
+    font-family: 'Courier New', Courier, monospace;
+    float: left;
+    border: 25px;
+    color: rgb(50, 13, 69);
+}
+.rightside{
+    float: right;
+    padding: 100px;
+}
+.resumelink{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: black;
+}
